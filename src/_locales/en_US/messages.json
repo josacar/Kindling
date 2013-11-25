@@ -1,4 +1,4 @@
-﻿{
+{
 	"on":{
 		"message": "On"
 	},
@@ -55,6 +55,9 @@
 	},
 	"minimalInterface":{
 		"message": "Minimal UI"
+	},
+	"minimalTitle":{
+		"message": "Minimal Title"
 	},
 	"useDifferentTheme":{
 		"message": "Alternate color scheme"

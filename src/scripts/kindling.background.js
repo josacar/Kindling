@@ -91,6 +91,7 @@
 		initOption('showAvatarsInChat', 'true');
 		initOption('useLargeAvatars', 'false');
 		initOption('minimalInterface', 'false');
+		initOption('minimalTitle', 'false');
 		initOption('expandAbbreviations', 'true');
 		initOption('playMessageSounds', 'true');
 		initOption('showAvatarsInNotifications', localStorage.showAvatars === 'false' ? 'false' : 'true');

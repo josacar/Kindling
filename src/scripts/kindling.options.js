@@ -14,6 +14,7 @@ kindling.module(function () {
 		'soundAndEmojiMenus',
 		'soundAndEmojiAutoComplete',
 		'minimalInterface',
+		'minimalTitle',
 		'showAvatarsInChat',
 		'useLargeAvatars',
 		'playMessageSounds',
